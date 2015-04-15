@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Medula</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="low_intensity">LOW</string>
+    <string name="high_intensity">HIGH</string>
+    <string name="sun_exposure">Sun Exposure</string>
+    <string name="slash">/</string>
+    <string name="colon">:</string>
+    <string name="crocin">Crocin</string>
+    <string name="neprocin">Neprocin</string>
+    <string name="note_colon">Note: </string>
+    <string name="add_note">Add some note here</string>
+    <string name="submit">Submit</string>
+    <string name="optional">(optional)</string>
+
+</resources>
